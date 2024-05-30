@@ -1,0 +1,11 @@
+sort1 uses: bubble sort
+
+How do you know?: Bubble sort has a runtime of O(n) when the list is already sorted, which makes it faster than selection sort.
+
+sort2 uses: merge sort
+
+How do you know?: Merge sort would have the fastest runtime for a list of unsorted random numbers.
+
+sort3 uses: selection sort
+
+How do you know?: Selection sort should be slower than bubble sort on a sorted list and faster than bubble sort on a reversed list.
